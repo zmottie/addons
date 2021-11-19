@@ -8,6 +8,8 @@ Follow these steps to get the add-on installed on your system:
 2. Find the "DHCP server" add-on and click it.
 3. Click on the "INSTALL" button.
 
+Note: It is necessary to enabled Advanced Mode on your User Profile Page for the DHCP server to become available
+
 ## How to use
 
 1. Set the `domain` option, e.g., `mynetwork.local`.
